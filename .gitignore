@@ -1,0 +1,6 @@
+# CMake
+cmake-build-*/
+CMakeLists.txt
+
+# IN_DEV files
+Colors/Spaces/colorspacelist.txt
