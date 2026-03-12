@@ -1,8 +1,0 @@
-# ninja log v6
-11	509	7843180353565180	build.ninja	ade0aee5515cd7fb
-11	509	7843180353540005	C:/Users/student/Documents/code/cpp/image_programs/imgManager/cmake-build-debug/cmake_install.cmake	ade0aee5515cd7fb
-45	666	7843178867887527	CMakeFiles/imgManager.dir/Colors/Color_RGB.cpp.obj	c731ce189e8047b8
-51	157	7843178867947702	CMakeFiles/imgManager.dir/Noise/Perlin.cpp.obj	f54073b9fab6f469
-56	521	7843178867989730	CMakeFiles/imgManager.dir/Images/ImgLayer.cpp.obj	75ddc50ade633cc8
-41	664	7843178867842435	CMakeFiles/imgManager.dir/main.cpp.obj	d48d4ebaae6ee46a
-667	984	7843178874099368	imgManager.exe	72cd89d57b8f4bcd
